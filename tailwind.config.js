@@ -6,6 +6,9 @@ module.exports = {
   ],
   theme: {
     extend: {
+      backgroundImage: theme => ({
+        'mobile-app': 'url("https://cdn.getir.com/getirweb-images/common/illustration/doodle.png")'
+      }),
       spacing: {
         '0.1': '0.063rem'
       },

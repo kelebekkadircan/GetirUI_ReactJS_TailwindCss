@@ -5,7 +5,7 @@ import { RiUserFill, RiUserAddFill } from 'react-icons/ri'
 function Header() {
     return (
         <>
-            <div className='bg-brand-color  '>
+            <div className='bg-primary-brand-color  '>
 
                 <div className='container mx-auto h-11 flex items-center justify-between'>
                     <a href="#">
